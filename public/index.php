@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../src/Wcs/Hello.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 $txt = new App\Wcs\Hello();
 
