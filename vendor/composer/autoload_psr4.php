@@ -15,4 +15,5 @@ return array(
     'Egulias\\EmailValidator\\' => array($vendorDir . '/egulias/email-validator/src'),
     'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/lib/Doctrine/Common/Lexer'),
     'App\\Wcs\\' => array($baseDir . '/src/Wcs'),
+    'App\\SayHello\\' => array($vendorDir . '/ehime'),
 );
