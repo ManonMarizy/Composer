@@ -7,7 +7,9 @@
             "email": "manon.marizy@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    },
     "autoload": {
         "psr-4": {"App\\Wcs\\": "src/Wcs"}
     }
