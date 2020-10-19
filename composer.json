@@ -1,0 +1,14 @@
+{
+    "name": "manon/5-1_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "ManonMarizy",
+            "email": "manon.marizy@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\": "src/Wcs"}
+    }
+}
